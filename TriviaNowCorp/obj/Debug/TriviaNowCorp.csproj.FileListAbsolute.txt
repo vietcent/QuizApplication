@@ -1,0 +1,6 @@
+\\psf\Home\Documents\Visual Studio 2013\Projects\2015 Projects\TriviaNowCorp\TriviaNowCorp\bin\Debug\TriviaNowCorp.exe.config
+\\psf\Home\Documents\Visual Studio 2013\Projects\2015 Projects\TriviaNowCorp\TriviaNowCorp\obj\Debug\TriviaNowCorp.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\Visual Studio 2013\Projects\2015 Projects\TriviaNowCorp\TriviaNowCorp\bin\Debug\TriviaNowCorp.exe
+\\psf\Home\Documents\Visual Studio 2013\Projects\2015 Projects\TriviaNowCorp\TriviaNowCorp\bin\Debug\TriviaNowCorp.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\2015 Projects\TriviaNowCorp\TriviaNowCorp\obj\Debug\TriviaNowCorp.exe
+\\psf\Home\Documents\Visual Studio 2013\Projects\2015 Projects\TriviaNowCorp\TriviaNowCorp\obj\Debug\TriviaNowCorp.pdb
